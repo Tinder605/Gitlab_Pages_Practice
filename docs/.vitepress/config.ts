@@ -3,7 +3,7 @@ import { defineConfig } from 'vitepress'
 export default defineConfig({
   title: 'Project Docs',
   description: 'Minimal VitePress site for GitHub Pages',
-  base: '/gitlab-pages/',
+  base: '/Gitlab_Pages_Practice/',
   themeConfig: {
     nav: [
       { text: 'Home', link: '/' },
