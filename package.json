@@ -1,0 +1,18 @@
+{
+  "name": "gitlab-pages",
+  "private": true,
+  "type": "module",
+  "version": "0.1.0",
+  "description": "Minimal VitePress site for GitHub Pages",
+  "scripts": {
+    "docs:dev": "vitepress dev docs",
+    "docs:build": "vitepress build docs",
+    "docs:preview": "vitepress preview docs"
+  },
+  "devDependencies": {
+    "vitepress": "^1.0.0"
+  },
+  "engines": {
+    "node": ">=18"
+  }
+}
